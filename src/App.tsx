@@ -1,4 +1,5 @@
 import "./App.css";
+import CategorySection from "./components/CategorySection";
 import FlashSale from "./components/FlashSale";
 import Header from "./components/Header";
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Header />
       <FlashSale />
+      <CategorySection />
     </>
   );
 }

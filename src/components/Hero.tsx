@@ -1,4 +1,4 @@
-import IconButton from "./IconButton";
+import IconButton from "./ui/IconButton";
 import ProductCard from "./ProductCard";
 import { FiChevronLeft, FiChevronRight } from "react-icons/fi";
 import productImg from "../assets/table.jpg";

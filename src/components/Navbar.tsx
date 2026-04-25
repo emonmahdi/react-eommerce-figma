@@ -1,5 +1,5 @@
 import { FiUser, FiShoppingCart } from "react-icons/fi";
-import IconButton from "./IconButton";
+import IconButton from "./ui/IconButton";
 
 const Navbar = () => {
   return (

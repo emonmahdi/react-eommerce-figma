@@ -1,14 +1,14 @@
- 
-import './App.css'
-import Header from './components/Header'
+import "./App.css";
+import FlashSale from "./components/FlashSale";
+import Header from "./components/Header";
 
-function App() { 
-
+function App() {
   return (
     <>
-       <Header />
+      <Header />
+      <FlashSale />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

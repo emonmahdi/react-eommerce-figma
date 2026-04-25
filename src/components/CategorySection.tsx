@@ -29,8 +29,8 @@ const categories: Category[] = [
 
 const CategorySection: React.FC = () => {
   return (
-    <section className="bg-[#f5f5f5] py-16 px-4">
-      <div className="max-w-6xl mx-auto text-center">
+    <section className="bg-[#f5f5f5] ">
+      <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 py-16 text-center">
         {/* Heading */}
         <h2 className="text-3xl md:text-4xl font-semibold text-gray-800">
           Top Categories
